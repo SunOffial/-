@@ -1,0 +1,12 @@
+﻿  game.c
+F:\C练习\mine_clerance\mine_clerance\game.c(63,39): warning C4020: “judgeGame”: 实参太多
+F:\C练习\mine_clerance\mine_clerance\game.c(74,19): warning C4013: “rand”未定义；假设外部返回 int
+F:\C练习\mine_clerance\mine_clerance\game.c(84,33): warning C4020: “judgeGame”: 实参太多
+F:\C练习\mine_clerance\mine_clerance\game.c(124,43): warning C4028: 形参 2 与声明不同
+F:\C练习\mine_clerance\mine_clerance\game.c(124,64): warning C4029: 声明的形参表不同于定义
+  main.c
+F:\C练习\mine_clerance\mine_clerance\main.c(15,7): warning C4013: “srand”未定义；假设外部返回 int
+F:\C练习\mine_clerance\mine_clerance\main.c(15,26): warning C4013: “time”未定义；假设外部返回 int
+  same.c
+  正在生成代码...
+  mine_clerance.vcxproj -> F:\C练习\mine_clerance\Debug\mine_clerance.exe
